@@ -1,0 +1,15 @@
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\bin\Debug\net10.0\01-CSharp-Basics.exe
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\bin\Debug\net10.0\01-CSharp-Basics.deps.json
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\bin\Debug\net10.0\01-CSharp-Basics.runtimeconfig.json
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\bin\Debug\net10.0\01-CSharp-Basics.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\bin\Debug\net10.0\01-CSharp-Basics.pdb
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.AssemblyInfoInputs.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.AssemblyInfo.cs
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.csproj.CoreCompileInputs.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\refint\01-CSharp-Basics.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.pdb
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CSharp-Basics.genruntimeconfig.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\ref\01-CSharp-Basics.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\01-CSharp-Basics\01-CSharp-Basics\obj\Debug\net10.0\01-CShar.2B10B773.Up2Date
