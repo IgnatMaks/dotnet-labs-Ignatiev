@@ -1,0 +1,16 @@
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\bin\Debug\net10.0\02-OOP-Exceptions.exe
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\bin\Debug\net10.0\02-OOP-Exceptions.deps.json
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\bin\Debug\net10.0\02-OOP-Exceptions.runtimeconfig.json
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\bin\Debug\net10.0\02-OOP-Exceptions.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\bin\Debug\net10.0\02-OOP-Exceptions.pdb
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.AssemblyInfoInputs.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.AssemblyInfo.cs
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.csproj.CoreCompileInputs.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.sourcelink.json
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\refint\02-OOP-Exceptions.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.pdb
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-Exceptions.genruntimeconfig.cache
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\ref\02-OOP-Exceptions.dll
+D:\VNTU\3 KURS\5 Semestr\Розробка проектів засобами платформи .NET. -\GitHub\dotnet-labs-Ignatiev\02-OOP-Exceptions\02-OOP-Exceptions\obj\Debug\net10.0\02-OOP-E.44D15091.Up2Date
